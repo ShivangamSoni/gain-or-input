@@ -10,6 +10,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = ["numpy>=1.24", "pandas>=2.0", "scikit-learn>=1.3"]
 
+[project.urls]
+Repository = "https://github.com/ShivangamSoni/gain-or-input"
+
 [project.optional-dependencies]
 torch = ["torch>=2.0"]
 
